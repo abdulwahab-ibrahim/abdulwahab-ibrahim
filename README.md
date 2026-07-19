@@ -42,9 +42,9 @@ I enjoy transforming raw data into meaningful insights that help businesses make
 
 ## 📫 Contact Me
 
-📧 [Gmail]ibrahimabdulwahab2424@gmail.com
+📧 [Gmail](ibrahimabdulwahab2424@gmail.com)
 
-💼 [LinkedIn]https://linkedin.com/in/abdulwahab-ibrahim-8b03641a7
+💼 [LinkedIn](https://linkedin.com/in/abdulwahab-ibrahim-8b03641a7)
 
 ---
 
