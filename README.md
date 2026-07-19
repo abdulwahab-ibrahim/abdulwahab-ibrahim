@@ -1,17 +1,19 @@
 # Hi there 👋, I'm Ibrahim Abdulwahab
 
-## Data Analyst | Excel | SQL | PostgreSQL | Power BI | DAX
+## 📊 Data Analyst | Excel | SQL | PostgreSQL | Power BI | DAX
 
-I enjoy transforming raw data into meaningful insights that help businesses make smarter decisions.
+I transform raw data into actionable insights that help businesses make smarter, data-driven decisions through analytics, dashboards, and business intelligence.
 
-### 👨‍💻 About Me
+---
 
-- 📊 Data Analyst passionate about Business Intelligence
-- 📈 Skilled in building interactive dashboards
-- 🗄️ SQL & PostgreSQL for data querying
-- 📉 Power BI & DAX for reporting
+## 👨‍💻 About Me
+
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 📈 Experienced in building interactive dashboards and KPI reports
+- 🗄️ Skilled in SQL & PostgreSQL for data querying and analysis
+- 📉 Proficient in Power BI and DAX for data visualization
 - 📍 Based in Lagos, Nigeria
-- 🌱 Currently improving my Python for Data Analytics
+- 🌱 Currently learning Python for Data Analytics
 
 ---
 
@@ -30,25 +32,30 @@ I enjoy transforming raw data into meaningful insights that help businesses make
 - 📊 TradeZone Sales Dashboard
 - ☕ Coffee Shop Sales Dashboard
 - 📉 Customer Churn Dashboard
-- 🐍 Python Data Analysis Projects (Coming Soon)
+- 🎮 Video Games Sales Dashboard
+- 🐍 Python Data Analysis Projects *(Coming Soon)*
 
 ---
 
-🌐 **Portfolio:**  
+## 🌐 Portfolio
 
-[View My Portfolio](https://abdulwahab-ibrahim.github.io/Abdulwahab-Data-Analyst-Portfolio/)
+🔗 **Portfolio Website**
+
+https://abdulwahab-ibrahim.github.io/Abdulwahab-Data-Analyst-Portfolio/
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-📧 [Gmail](ibrahimabdulwahab2424@gmail.com)
+📧 [Email](mailto:ibrahimabdulwahab2424@gmail.com)
 
 💼 [LinkedIn](https://linkedin.com/in/abdulwahab-ibrahim-8b03641a7)
 
+💻 [GitHub](https://github.com/abdulwahab-ibrahim)
+
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdulwahab-ibrahim&show_icons=true&theme=tokyonight)
 
@@ -63,3 +70,7 @@ I enjoy transforming raw data into meaningful insights that help businesses make
 ## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulwahab-ibrahim&layout=compact&theme=tokyonight)
+
+---
+
+⭐ *Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me!*
