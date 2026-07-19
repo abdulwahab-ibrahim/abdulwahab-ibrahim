@@ -41,7 +41,7 @@ I transform raw data into actionable insights that help businesses make smarter,
 
 🔗 **Portfolio Website**
 
-[Website](https://abdulwahab-ibrahim.github.io/Abdulwahab-Data-Analyst-Portfolio/)
+🌐 [Website](https://abdulwahab-ibrahim.github.io/Abdulwahab-Data-Analyst-Portfolio/)
 
 ---
 
