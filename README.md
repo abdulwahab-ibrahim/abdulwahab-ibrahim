@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there 👋, I'm Ibrahim Abdulwahab
 
-<!--
-**abdulwahab-ibrahim/abdulwahab-ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Power BI Developer | SQL Enthusiast
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful insights that help businesses make smarter decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 📊 Data Analyst passionate about Business Intelligence
+- 📈 Skilled in building interactive dashboards
+- 🗄️ SQL & PostgreSQL for data querying
+- 📉 Power BI & DAX for reporting
+- 📍 Based in Lagos, Nigeria
+- 🌱 Currently improving my Python for Data Analytics
+
+---
+
+## 🛠 Tech Stack
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-FFB000?style=for-the-badge)
+
+---
+
+## 📂 Featured Projects
+
+- 📊 TradeZone Sales Dashboard
+- ☕ Coffee Shop Sales Dashboard
+- 📉 Customer Churn Dashboard
+- 🐍 Python Data Analysis Projects (Coming Soon)
+
+---
+
+## 🌐 Portfolio
+
+**Portfolio Website**
+
+https://abdulwahab-ibrahim.github.io/Abdulwahab-Data-Analyst-Portfolio/index.html
+
+---
+
+## 📫 Contact Me
+
+📧 ibrahimabdulwahab2424@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/abdulwahab-ibrahim-8b03641a7
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulwahab-ibrahim&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulwahab-ibrahim&theme=tokyonight)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahab-ibrahim&layout=compact&theme=tokyonight)
