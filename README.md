@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ibrahim Abdulwahab
 
-## Data Analyst | Power BI Developer | SQL Enthusiast
+## Data Analyst | Excel | SQL | PostgreSQL | Power BI | DAX
 
 I enjoy transforming raw data into meaningful insights that help businesses make smarter decisions.
 
