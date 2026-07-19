@@ -34,11 +34,9 @@ I enjoy transforming raw data into meaningful insights that help businesses make
 
 ---
 
-## 🌐 Portfolio
+🌐 **Portfolio:**  
 
-**Portfolio Website**
-
-https://abdulwahab-ibrahim.github.io/Abdulwahab-Data-Analyst-Portfolio/index.html
+[View My Portfolio](https://abdulwahab-ibrahim.github.io/Abdulwahab-Data-Analyst-Portfolio/)
 
 ---
 
@@ -54,7 +52,7 @@ https://linkedin.com/in/abdulwahab-ibrahim-8b03641a7
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulwahab-ibrahim&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdulwahab-ibrahim&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -66,4 +64,4 @@ https://linkedin.com/in/abdulwahab-ibrahim-8b03641a7
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahab-ibrahim&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulwahab-ibrahim&layout=compact&theme=tokyonight)
